@@ -127,7 +127,7 @@ npm run dev  # or npm start
 
 ---
 
-## 🤝 Contributers
+## 🤝 Contributors
 
 - Karen Mumbi
 - Charles Muthui
